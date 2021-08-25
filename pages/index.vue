@@ -3,3 +3,6 @@
     <p v-if="$auth.loggedIn">Name：{{ $auth.user.name }}</p>
   </div>
 </template>
+<table class="table">
+  ...
+</table>
